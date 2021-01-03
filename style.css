@@ -12,3 +12,10 @@ body {
  background-repeat: no-repeat;
  background-size: cover;
 }
+#cock {
+    font-size: small;
+    text-align: left;
+    position: absolute;
+    bottom: 5px;
+    
+}
