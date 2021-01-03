@@ -7,3 +7,8 @@ p {
     color: red;
     text-align: center;
 }
+body {
+ background-image: url(image/dmg.jpg);
+ background-repeat: no-repeat;
+ background-size: cover;
+}
