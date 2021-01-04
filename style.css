@@ -1,3 +1,6 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
 p {
     font-size: 24px;
     text-align: center;
@@ -25,11 +28,10 @@ body {
     padding: 10px;
     color: white;
     border-radius: 5px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 20px;
     position: absolute;
     bottom: 5px;
-    right: 1px;
+    right: 10px;
     font-weight: 700;
     
 }
